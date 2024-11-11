@@ -1,4 +1,3 @@
-# stable_marriage.py
 
 def stable_marriage(n, boy_preferences, girl_preferences):
     # Initializing all boys and girls as free
